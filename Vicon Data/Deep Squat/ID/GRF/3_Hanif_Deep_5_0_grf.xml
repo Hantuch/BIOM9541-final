@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OpenSimDocument Version="40500">
+	<ExternalLoads>
+		<objects>
+			<ExternalForce name="right_ground_force_v">
+				
+				<applied_to_body>calcn_r</applied_to_body>
+				
+				<force_expressed_in_body>ground</force_expressed_in_body>
+				
+				<point_expressed_in_body>ground</point_expressed_in_body>
+				
+				<force_identifier>right_ground_force_v</force_identifier>
+				
+				<point_identifier>right_ground_force_p</point_identifier>
+				
+				<torque_identifier>right_ground_torque_</torque_identifier>
+			</ExternalForce>
+			<ExternalForce name="left_ground_force_v">
+				
+				<applied_to_body>calcn_l</applied_to_body>
+				
+				<force_expressed_in_body>ground</force_expressed_in_body>
+				
+				<point_expressed_in_body>ground</point_expressed_in_body>
+				
+				<force_identifier>left_ground_force_v</force_identifier>
+				
+				<point_identifier>left_ground_force_p</point_identifier>
+				
+				<torque_identifier>left_ground_torque_</torque_identifier>
+			</ExternalForce>
+		</objects>
+		<groups />
+		
+		<datafile>C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Deep Squat\ID\GRF\3_Hanif_Deep_5_0_grf.mot</datafile>
+	</ExternalLoads>
+</OpenSimDocument>

@@ -1,0 +1,743 @@
+[2025-11-15 21:28:07.414] [info] AbstractTool Hanif-Scaled loading model C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Deep Squat/RRA/2_Hanif_Deep_7_5_patched/2_Hanif_Deep_7_5_patched_model_adjusted.osim
+[2025-11-15 21:28:07.434] [info] Loaded model Hanif-Scaled from file C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Deep Squat/RRA/2_Hanif_Deep_7_5_patched/2_Hanif_Deep_7_5_patched_model_adjusted.osim
+[2025-11-15 21:28:07.519] [info] Adding force object set from ../../../../Scripts/Setup_XMLs/Boiler_XMLs/cmc_actuators.xml
+[2025-11-15 21:28:07.525] [info] Running tool 'Hanif-Scaled'.
+[2025-11-15 21:28:07.541] [info] TaskSet size = 23.
+[2025-11-15 21:28:07.554] [info] Storage: read data file = C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Deep Squat\ID\GRF\2_Hanif_Deep_7_5_grf.mot (nr=561 nc=19)
+[2025-11-15 21:28:07.557] [info] ExternalForce::right_ground_force_v Data source being set to Hanif_Deep_7_5_grf.mot
+[2025-11-15 21:28:07.557] [info] ExternalForce::left_ground_force_v Data source being set to Hanif_Deep_7_5_grf.mot
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med1_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med2_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med3_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'bifemlh_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'bifemsh_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'sar_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_mag2_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tfl_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'pect_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'grac_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max1_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max2_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max3_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'iliacus_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'psoas_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'quad_fem_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'gem_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'peri_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'rect_fem_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'vas_int_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'med_gas_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'soleus_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tib_post_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tib_ant_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med1_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med2_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med3_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'bifemlh_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'bifemsh_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'sar_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_mag2_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tfl_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'pect_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'grac_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max1_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max2_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max3_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'iliacus_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'psoas_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'quad_fem_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'gem_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'peri_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'rect_fem_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'vas_int_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'med_gas_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'soleus_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tib_post_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tib_ant_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'ercspn_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'ercspn_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'intobl_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'intobl_l' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'extobl_r' has been reset to 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-11-15 21:28:07.558] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'extobl_l' has been reset to 0.02.
+[2025-11-15 21:28:07.561] [warning] A desired points file was not specified.
+[2025-11-15 21:28:07.561] [info] Loading desired kinematics from file 'C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Deep Squat/IK/2_Hanif_Deep_7_5_patched.mot'...
+[2025-11-15 21:28:07.561] [info] Storage: read data file = C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Deep Squat/IK/2_Hanif_Deep_7_5_patched.mot (nr=561 nc=24)
+[2025-11-15 21:28:07.565] [info] Low-pass filtering desired kinematics with a cutoff frequency of 6.0...
+[2025-11-15 21:28:07.581] [cout] [info] MODEL: Hanif-Scaled
+
+numStates = 154
+numCoordinates = 23
+numSpeeds = 23
+numActuators = 77
+numBodies = 12
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 0)
+
+BODIES (total: 12)
+body[0] = pelvis. mass: 8.90742
+              moments of inertia:  ~[0.0524779,0.0444633,0.0295571]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 7.03502
+              moments of inertia:  ~[0.0924431,0.0242326,0.0974829]
+              products of inertia: ~[0,0,0]
+body[2] = tibia_r. mass: 2.80413
+              moments of inertia:  ~[0.0293523,0.00297017,0.0297599]
+              products of inertia: ~[0,0,0]
+body[3] = talus_r. mass: 0.075634
+              moments of inertia:  ~[0.000457796,0.000457796,0.000457796]
+              products of inertia: ~[0,0,0]
+body[4] = calcn_r. mass: 0.945425
+              moments of inertia:  ~[0.000640914,0.0017854,0.00187696]
+              products of inertia: ~[0,0,0]
+body[5] = toes_r. mass: 0.163823
+              moments of inertia:  ~[4.57796e-05,9.15591e-05,4.57796e-05]
+              products of inertia: ~[0,0,0]
+body[6] = femur_l. mass: 7.03502
+              moments of inertia:  ~[0.0924431,0.0242326,0.0974829]
+              products of inertia: ~[0,0,0]
+body[7] = tibia_l. mass: 2.80413
+              moments of inertia:  ~[0.0293523,0.00297017,0.0297599]
+              products of inertia: ~[0,0,0]
+body[8] = talus_l. mass: 0.075634
+              moments of inertia:  ~[0.000457796,0.000457796,0.000457796]
+              products of inertia: ~[0,0,0]
+body[9] = calcn_l. mass: 0.945425
+              moments of inertia:  ~[0.000640914,0.0017854,0.00187696]
+              products of inertia: ~[0,0,0]
+body[10] = toes_l. mass: 0.163823
+              moments of inertia:  ~[4.57796e-05,9.15591e-05,4.57796e-05]
+              products of inertia: ~[0,0,0]
+body[11] = torso. mass: 29.1483
+              moments of inertia:  ~[0.882257,0.452048,0.856468]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 12)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+joint[3] = ankle_r. parent: tibia_r_offset, child: talus_r_offset
+joint[4] = subtalar_r. parent: talus_r_offset, child: calcn_r_offset
+joint[5] = mtp_r. parent: calcn_r_offset, child: toes_r_offset
+joint[6] = hip_l. parent: pelvis_offset, child: femur_l_offset
+joint[7] = knee_l. parent: femur_l_offset, child: tibia_l_offset
+joint[8] = ankle_l. parent: tibia_l_offset, child: talus_l_offset
+joint[9] = subtalar_l. parent: talus_l_offset, child: calcn_l_offset
+joint[10] = mtp_l. parent: calcn_l_offset, child: toes_l_offset
+joint[11] = back. parent: pelvis_offset, child: torso_offset
+
+ACTUATORS (total: 77)
+actuator[0] = glut_med1_r
+actuator[1] = glut_med2_r
+actuator[2] = glut_med3_r
+actuator[3] = bifemlh_r
+actuator[4] = bifemsh_r
+actuator[5] = sar_r
+actuator[6] = add_mag2_r
+actuator[7] = tfl_r
+actuator[8] = pect_r
+actuator[9] = grac_r
+actuator[10] = glut_max1_r
+actuator[11] = glut_max2_r
+actuator[12] = glut_max3_r
+actuator[13] = iliacus_r
+actuator[14] = psoas_r
+actuator[15] = quad_fem_r
+actuator[16] = gem_r
+actuator[17] = peri_r
+actuator[18] = rect_fem_r
+actuator[19] = vas_int_r
+actuator[20] = med_gas_r
+actuator[21] = soleus_r
+actuator[22] = tib_post_r
+actuator[23] = tib_ant_r
+actuator[24] = glut_med1_l
+actuator[25] = glut_med2_l
+actuator[26] = glut_med3_l
+actuator[27] = bifemlh_l
+actuator[28] = bifemsh_l
+actuator[29] = sar_l
+actuator[30] = add_mag2_l
+actuator[31] = tfl_l
+actuator[32] = pect_l
+actuator[33] = grac_l
+actuator[34] = glut_max1_l
+actuator[35] = glut_max2_l
+actuator[36] = glut_max3_l
+actuator[37] = iliacus_l
+actuator[38] = psoas_l
+actuator[39] = quad_fem_l
+actuator[40] = gem_l
+actuator[41] = peri_l
+actuator[42] = rect_fem_l
+actuator[43] = vas_int_l
+actuator[44] = med_gas_l
+actuator[45] = soleus_l
+actuator[46] = tib_post_l
+actuator[47] = tib_ant_l
+actuator[48] = ercspn_r
+actuator[49] = ercspn_l
+actuator[50] = intobl_r
+actuator[51] = intobl_l
+actuator[52] = extobl_r
+actuator[53] = extobl_l
+actuator[54] = FX
+actuator[55] = FY
+actuator[56] = FZ
+actuator[57] = MX
+actuator[58] = MY
+actuator[59] = MZ
+actuator[60] = hip_flexion_r_reserve
+actuator[61] = hip_adduction_r_reserve
+actuator[62] = hip_rotation_r_reserve
+actuator[63] = knee_angle_r_reserve
+actuator[64] = ankle_angle_r_reserve
+actuator[65] = subtalar_angle_r_reserve
+actuator[66] = mtp_angle_r_reserve
+actuator[67] = hip_flexion_l_reserve
+actuator[68] = hip_adduction_l_reserve
+actuator[69] = hip_rotation_l_reserve
+actuator[70] = knee_angle_l_reserve
+actuator[71] = ankle_angle_l_reserve
+actuator[72] = subtalar_angle_l_reserve
+actuator[73] = mtp_angle_l_reserve
+actuator[74] = lumbar_extension_reserve
+actuator[75] = lumbar_bending_reserve
+actuator[76] = lumbar_rotation_reserve
+
+STATES (total: 154)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/knee_r/knee_angle_r/value
+y[19] = /jointset/knee_r/knee_angle_r/speed
+y[20] = /jointset/ankle_r/ankle_angle_r/value
+y[21] = /jointset/ankle_r/ankle_angle_r/speed
+y[22] = /jointset/subtalar_r/subtalar_angle_r/value
+y[23] = /jointset/subtalar_r/subtalar_angle_r/speed
+y[24] = /jointset/mtp_r/mtp_angle_r/value
+y[25] = /jointset/mtp_r/mtp_angle_r/speed
+y[26] = /jointset/hip_l/hip_flexion_l/value
+y[27] = /jointset/hip_l/hip_flexion_l/speed
+y[28] = /jointset/hip_l/hip_adduction_l/value
+y[29] = /jointset/hip_l/hip_adduction_l/speed
+y[30] = /jointset/hip_l/hip_rotation_l/value
+y[31] = /jointset/hip_l/hip_rotation_l/speed
+y[32] = /jointset/knee_l/knee_angle_l/value
+y[33] = /jointset/knee_l/knee_angle_l/speed
+y[34] = /jointset/ankle_l/ankle_angle_l/value
+y[35] = /jointset/ankle_l/ankle_angle_l/speed
+y[36] = /jointset/subtalar_l/subtalar_angle_l/value
+y[37] = /jointset/subtalar_l/subtalar_angle_l/speed
+y[38] = /jointset/mtp_l/mtp_angle_l/value
+y[39] = /jointset/mtp_l/mtp_angle_l/speed
+y[40] = /jointset/back/lumbar_extension/value
+y[41] = /jointset/back/lumbar_extension/speed
+y[42] = /jointset/back/lumbar_bending/value
+y[43] = /jointset/back/lumbar_bending/speed
+y[44] = /jointset/back/lumbar_rotation/value
+y[45] = /jointset/back/lumbar_rotation/speed
+y[46] = /forceset/glut_med1_r/activation
+y[47] = /forceset/glut_med1_r/fiber_length
+y[48] = /forceset/glut_med2_r/activation
+y[49] = /forceset/glut_med2_r/fiber_length
+y[50] = /forceset/glut_med3_r/activation
+y[51] = /forceset/glut_med3_r/fiber_length
+y[52] = /forceset/bifemlh_r/activation
+y[53] = /forceset/bifemlh_r/fiber_length
+y[54] = /forceset/bifemsh_r/activation
+y[55] = /forceset/bifemsh_r/fiber_length
+y[56] = /forceset/sar_r/activation
+y[57] = /forceset/sar_r/fiber_length
+y[58] = /forceset/add_mag2_r/activation
+y[59] = /forceset/add_mag2_r/fiber_length
+y[60] = /forceset/tfl_r/activation
+y[61] = /forceset/tfl_r/fiber_length
+y[62] = /forceset/pect_r/activation
+y[63] = /forceset/pect_r/fiber_length
+y[64] = /forceset/grac_r/activation
+y[65] = /forceset/grac_r/fiber_length
+y[66] = /forceset/glut_max1_r/activation
+y[67] = /forceset/glut_max1_r/fiber_length
+y[68] = /forceset/glut_max2_r/activation
+y[69] = /forceset/glut_max2_r/fiber_length
+y[70] = /forceset/glut_max3_r/activation
+y[71] = /forceset/glut_max3_r/fiber_length
+y[72] = /forceset/iliacus_r/activation
+y[73] = /forceset/iliacus_r/fiber_length
+y[74] = /forceset/psoas_r/activation
+y[75] = /forceset/psoas_r/fiber_length
+y[76] = /forceset/quad_fem_r/activation
+y[77] = /forceset/quad_fem_r/fiber_length
+y[78] = /forceset/gem_r/activation
+y[79] = /forceset/gem_r/fiber_length
+y[80] = /forceset/peri_r/activation
+y[81] = /forceset/peri_r/fiber_length
+y[82] = /forceset/rect_fem_r/activation
+y[83] = /forceset/rect_fem_r/fiber_length
+y[84] = /forceset/vas_int_r/activation
+y[85] = /forceset/vas_int_r/fiber_length
+y[86] = /forceset/med_gas_r/activation
+y[87] = /forceset/med_gas_r/fiber_length
+y[88] = /forceset/soleus_r/activation
+y[89] = /forceset/soleus_r/fiber_length
+y[90] = /forceset/tib_post_r/activation
+y[91] = /forceset/tib_post_r/fiber_length
+y[92] = /forceset/tib_ant_r/activation
+y[93] = /forceset/tib_ant_r/fiber_length
+y[94] = /forceset/glut_med1_l/activation
+y[95] = /forceset/glut_med1_l/fiber_length
+y[96] = /forceset/glut_med2_l/activation
+y[97] = /forceset/glut_med2_l/fiber_length
+y[98] = /forceset/glut_med3_l/activation
+y[99] = /forceset/glut_med3_l/fiber_length
+y[100] = /forceset/bifemlh_l/activation
+y[101] = /forceset/bifemlh_l/fiber_length
+y[102] = /forceset/bifemsh_l/activation
+y[103] = /forceset/bifemsh_l/fiber_length
+y[104] = /forceset/sar_l/activation
+y[105] = /forceset/sar_l/fiber_length
+y[106] = /forceset/add_mag2_l/activation
+y[107] = /forceset/add_mag2_l/fiber_length
+y[108] = /forceset/tfl_l/activation
+y[109] = /forceset/tfl_l/fiber_length
+y[110] = /forceset/pect_l/activation
+y[111] = /forceset/pect_l/fiber_length
+y[112] = /forceset/grac_l/activation
+y[113] = /forceset/grac_l/fiber_length
+y[114] = /forceset/glut_max1_l/activation
+y[115] = /forceset/glut_max1_l/fiber_length
+y[116] = /forceset/glut_max2_l/activation
+y[117] = /forceset/glut_max2_l/fiber_length
+y[118] = /forceset/glut_max3_l/activation
+y[119] = /forceset/glut_max3_l/fiber_length
+y[120] = /forceset/iliacus_l/activation
+y[121] = /forceset/iliacus_l/fiber_length
+y[122] = /forceset/psoas_l/activation
+y[123] = /forceset/psoas_l/fiber_length
+y[124] = /forceset/quad_fem_l/activation
+y[125] = /forceset/quad_fem_l/fiber_length
+y[126] = /forceset/gem_l/activation
+y[127] = /forceset/gem_l/fiber_length
+y[128] = /forceset/peri_l/activation
+y[129] = /forceset/peri_l/fiber_length
+y[130] = /forceset/rect_fem_l/activation
+y[131] = /forceset/rect_fem_l/fiber_length
+y[132] = /forceset/vas_int_l/activation
+y[133] = /forceset/vas_int_l/fiber_length
+y[134] = /forceset/med_gas_l/activation
+y[135] = /forceset/med_gas_l/fiber_length
+y[136] = /forceset/soleus_l/activation
+y[137] = /forceset/soleus_l/fiber_length
+y[138] = /forceset/tib_post_l/activation
+y[139] = /forceset/tib_post_l/fiber_length
+y[140] = /forceset/tib_ant_l/activation
+y[141] = /forceset/tib_ant_l/fiber_length
+y[142] = /forceset/ercspn_r/activation
+y[143] = /forceset/ercspn_r/fiber_length
+y[144] = /forceset/ercspn_l/activation
+y[145] = /forceset/ercspn_l/fiber_length
+y[146] = /forceset/intobl_r/activation
+y[147] = /forceset/intobl_r/fiber_length
+y[148] = /forceset/intobl_l/activation
+y[149] = /forceset/intobl_l/fiber_length
+y[150] = /forceset/extobl_r/activation
+y[151] = /forceset/extobl_r/fiber_length
+y[152] = /forceset/extobl_l/activation
+y[153] = /forceset/extobl_l/fiber_length
+
+[2025-11-15 21:28:07.681] [info] Constructing function set for tracking desired kinematics...
+[2025-11-15 21:28:07.868] [info] No Actuation analysis found in analysis set -- adding one...
+[2025-11-15 21:28:07.868] [info] No Kinematics analysis found in analysis set -- adding one...
+[2025-11-15 21:28:07.870] [info] Using the generalized coordinates specified in C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Deep Squat/IK/2_Hanif_Deep_7_5_patched.mot to set the initial configuration.
+[2025-11-15 21:28:07.915] [info] Using IPOPT optimizer algorithm.
+[2025-11-15 21:28:07.915] [info] Setting optimizer print level to 0.
+[2025-11-15 21:28:07.915] [info] Setting optimizer convergence tolerance to 0.000100000.
+[2025-11-15 21:28:07.915] [info] Setting optimizer maximum iterations to 1000.
+[2025-11-15 21:28:07.915] [info] Setting cmc controller to not use verbose printing.
+
+[2025-11-15 21:28:07.916] [info] -----------------------------------------------------------------
+[2025-11-15 21:28:07.916] [info] Computing initial values for muscles states (activation, length):
+[2025-11-15 21:28:07.916] [info] -----------------------------------------------------------------
+[2025-11-15 21:28:07.916] [info]  -- Start time = Sat Nov 15 21:28:07 2025
+[2025-11-15 21:28:07.916] [info] -----------------------------------------------------------------
+[2025-11-15 21:28:07.916] [info] 
+[2025-11-15 21:28:08.431] [info] CMC::computeControls, t = 3.2
+[2025-11-15 21:28:09.279] [info] CMC::computeControls, t = 3.2
+[2025-11-15 21:28:10.049] [info] ----------------------------------
+[2025-11-15 21:28:10.050] [info] Finished computing initial states:
+[2025-11-15 21:28:10.050] [info] ----------------------------------
+[2025-11-15 21:28:10.050] [info]  -- Start time = Sat Nov 15 21:28:07 2025
+[2025-11-15 21:28:10.050] [info]  -- Finish time = Sat Nov 15 21:28:10 2025
+[2025-11-15 21:28:10.050] [info]  -- Elapsed time = 3.0 seconds.
+[2025-11-15 21:28:10.050] [info] ----------------------------------
+[2025-11-15 21:28:10.050] [info] 
+[2025-11-15 21:28:10.050] [info] --------------------------------------------
+[2025-11-15 21:28:10.050] [info] Using CMC to track the specified kinematics:
+[2025-11-15 21:28:10.050] [info] --------------------------------------------
+[2025-11-15 21:28:10.050] [info]  -- Integrating from 3.23 to 6.0
+[2025-11-15 21:28:10.050] [info]  -- Start time = Sat Nov 15 21:28:10 2025
+[2025-11-15 21:28:10.050] [info] --------------------------------------------
+[2025-11-15 21:28:10.050] [info] 
+[2025-11-15 21:28:10.052] [info] CMC::computeControls, t = 3.23
+[2025-11-15 21:28:10.600] [info] CMC::computeControls, t = 3.24
+[2025-11-15 21:28:11.191] [info] CMC::computeControls, t = 3.25
+[2025-11-15 21:28:11.798] [info] CMC::computeControls, t = 3.26
+[2025-11-15 21:28:12.387] [info] CMC::computeControls, t = 3.27
+[2025-11-15 21:28:12.882] [info] CMC::computeControls, t = 3.28
+[2025-11-15 21:28:13.457] [info] CMC::computeControls, t = 3.29
+[2025-11-15 21:28:13.980] [info] CMC::computeControls, t = 3.3
+[2025-11-15 21:28:14.533] [info] CMC::computeControls, t = 3.31
+[2025-11-15 21:28:15.097] [info] CMC::computeControls, t = 3.32
+[2025-11-15 21:28:15.625] [info] CMC::computeControls, t = 3.33
+[2025-11-15 21:28:16.181] [info] CMC::computeControls, t = 3.34
+[2025-11-15 21:28:16.719] [info] CMC::computeControls, t = 3.35
+[2025-11-15 21:28:17.286] [info] CMC::computeControls, t = 3.36
+[2025-11-15 21:28:17.852] [info] CMC::computeControls, t = 3.37
+[2025-11-15 21:28:18.366] [info] CMC::computeControls, t = 3.38
+[2025-11-15 21:28:18.966] [info] CMC::computeControls, t = 3.39
+[2025-11-15 21:28:19.487] [info] CMC::computeControls, t = 3.4
+[2025-11-15 21:28:19.983] [info] CMC::computeControls, t = 3.41
+[2025-11-15 21:28:20.515] [info] CMC::computeControls, t = 3.42
+[2025-11-15 21:28:21.066] [info] CMC::computeControls, t = 3.43
+[2025-11-15 21:28:21.639] [info] CMC::computeControls, t = 3.44
+[2025-11-15 21:28:22.231] [info] CMC::computeControls, t = 3.45
+[2025-11-15 21:28:22.780] [info] CMC::computeControls, t = 3.46
+[2025-11-15 21:28:23.415] [info] CMC::computeControls, t = 3.47
+[2025-11-15 21:28:23.993] [info] CMC::computeControls, t = 3.48
+[2025-11-15 21:28:24.692] [info] CMC::computeControls, t = 3.49
+[2025-11-15 21:28:25.260] [info] CMC::computeControls, t = 3.5
+[2025-11-15 21:28:25.795] [info] CMC::computeControls, t = 3.51
+[2025-11-15 21:28:26.496] [info] CMC::computeControls, t = 3.52
+[2025-11-15 21:28:27.187] [info] CMC::computeControls, t = 3.53
+[2025-11-15 21:28:27.749] [info] CMC::computeControls, t = 3.54
+[2025-11-15 21:28:28.419] [info] CMC::computeControls, t = 3.55
+[2025-11-15 21:28:29.045] [info] CMC::computeControls, t = 3.56
+[2025-11-15 21:28:29.616] [info] CMC::computeControls, t = 3.57
+[2025-11-15 21:28:30.219] [info] CMC::computeControls, t = 3.58
+[2025-11-15 21:28:30.856] [info] CMC::computeControls, t = 3.59
+[2025-11-15 21:28:31.433] [info] CMC::computeControls, t = 3.6
+[2025-11-15 21:28:31.993] [info] CMC::computeControls, t = 3.61
+[2025-11-15 21:28:32.567] [info] CMC::computeControls, t = 3.62
+[2025-11-15 21:28:33.145] [info] CMC::computeControls, t = 3.63
+[2025-11-15 21:28:33.720] [info] CMC::computeControls, t = 3.64
+[2025-11-15 21:28:34.353] [info] CMC::computeControls, t = 3.65
+[2025-11-15 21:28:34.964] [info] CMC::computeControls, t = 3.66
+[2025-11-15 21:28:35.621] [info] CMC::computeControls, t = 3.67
+[2025-11-15 21:28:36.225] [info] CMC::computeControls, t = 3.68
+[2025-11-15 21:28:36.935] [info] CMC::computeControls, t = 3.69
+[2025-11-15 21:28:37.686] [info] CMC::computeControls, t = 3.7
+[2025-11-15 21:28:38.406] [info] CMC::computeControls, t = 3.71
+[2025-11-15 21:28:39.025] [info] CMC::computeControls, t = 3.72
+[2025-11-15 21:28:39.679] [info] CMC::computeControls, t = 3.73
+[2025-11-15 21:28:40.500] [info] CMC::computeControls, t = 3.74
+[2025-11-15 21:28:41.256] [info] CMC::computeControls, t = 3.75
+[2025-11-15 21:28:42.066] [info] CMC::computeControls, t = 3.76
+[2025-11-15 21:28:42.866] [info] CMC::computeControls, t = 3.77
+[2025-11-15 21:28:42.929] [warning] CMC::computeControls: small force range for iliacus_l (0.0 to 0.0)
+[2025-11-15 21:28:42.929] [info] 
+[2025-11-15 21:28:43.676] [info] CMC::computeControls, t = 3.78
+[2025-11-15 21:28:43.745] [warning] CMC::computeControls: small force range for iliacus_r (0.0 to 0.0)
+[2025-11-15 21:28:43.745] [info] 
+[2025-11-15 21:28:44.476] [info] CMC::computeControls, t = 3.79
+[2025-11-15 21:28:45.198] [info] CMC::computeControls, t = 3.8
+[2025-11-15 21:28:45.824] [info] CMC::computeControls, t = 3.81
+[2025-11-15 21:28:46.482] [info] CMC::computeControls, t = 3.82
+[2025-11-15 21:28:47.200] [info] CMC::computeControls, t = 3.83
+[2025-11-15 21:28:47.958] [info] CMC::computeControls, t = 3.84
+[2025-11-15 21:28:48.739] [info] CMC::computeControls, t = 3.85
+[2025-11-15 21:28:49.425] [info] CMC::computeControls, t = 3.86
+[2025-11-15 21:28:50.237] [info] CMC::computeControls, t = 3.87
+[2025-11-15 21:28:51.039] [info] CMC::computeControls, t = 3.88
+[2025-11-15 21:28:51.794] [info] CMC::computeControls, t = 3.89
+[2025-11-15 21:28:52.611] [info] CMC::computeControls, t = 3.9
+[2025-11-15 21:28:53.323] [info] CMC::computeControls, t = 3.91
+[2025-11-15 21:28:54.086] [info] CMC::computeControls, t = 3.92
+[2025-11-15 21:28:54.880] [info] CMC::computeControls, t = 3.93
+[2025-11-15 21:28:55.631] [info] CMC::computeControls, t = 3.94
+[2025-11-15 21:28:56.374] [info] CMC::computeControls, t = 3.95
+[2025-11-15 21:28:57.063] [info] CMC::computeControls, t = 3.96
+[2025-11-15 21:28:57.747] [info] CMC::computeControls, t = 3.97
+[2025-11-15 21:28:58.485] [info] CMC::computeControls, t = 3.98
+[2025-11-15 21:28:59.204] [info] CMC::computeControls, t = 3.99
+[2025-11-15 21:28:59.968] [info] CMC::computeControls, t = 4.0
+[2025-11-15 21:29:00.650] [info] CMC::computeControls, t = 4.01
+[2025-11-15 21:29:01.315] [info] CMC::computeControls, t = 4.02
+[2025-11-15 21:29:01.991] [info] CMC::computeControls, t = 4.03
+[2025-11-15 21:29:02.650] [info] CMC::computeControls, t = 4.04
+[2025-11-15 21:29:03.400] [info] CMC::computeControls, t = 4.05
+[2025-11-15 21:29:04.139] [info] CMC::computeControls, t = 4.06
+[2025-11-15 21:29:04.879] [info] CMC::computeControls, t = 4.07
+[2025-11-15 21:29:05.633] [info] CMC::computeControls, t = 4.08
+[2025-11-15 21:29:06.460] [info] CMC::computeControls, t = 4.09
+[2025-11-15 21:29:07.243] [info] CMC::computeControls, t = 4.1
+[2025-11-15 21:29:08.033] [info] CMC::computeControls, t = 4.11
+[2025-11-15 21:29:08.812] [info] CMC::computeControls, t = 4.12
+[2025-11-15 21:29:09.643] [info] CMC::computeControls, t = 4.13
+[2025-11-15 21:29:10.442] [info] CMC::computeControls, t = 4.14
+[2025-11-15 21:29:11.366] [info] CMC::computeControls, t = 4.15
+[2025-11-15 21:29:12.281] [info] CMC::computeControls, t = 4.16
+[2025-11-15 21:29:13.321] [info] CMC::computeControls, t = 4.17
+[2025-11-15 21:29:14.413] [info] CMC::computeControls, t = 4.18
+[2025-11-15 21:29:15.154] [info] CMC::computeControls, t = 4.19
+[2025-11-15 21:29:15.970] [info] CMC::computeControls, t = 4.2
+[2025-11-15 21:29:16.662] [info] CMC::computeControls, t = 4.21
+[2025-11-15 21:29:17.615] [info] CMC::computeControls, t = 4.22
+[2025-11-15 21:29:18.483] [info] CMC::computeControls, t = 4.23
+[2025-11-15 21:29:19.559] [info] CMC::computeControls, t = 4.24
+[2025-11-15 21:29:20.787] [info] CMC::computeControls, t = 4.25
+[2025-11-15 21:29:22.016] [info] CMC::computeControls, t = 4.26
+[2025-11-15 21:29:23.295] [info] CMC::computeControls, t = 4.27
+[2025-11-15 21:29:24.815] [info] CMC::computeControls, t = 4.28
+[2025-11-15 21:29:26.620] [info] CMC::computeControls, t = 4.29
+[2025-11-15 21:29:28.783] [info] CMC::computeControls, t = 4.3
+[2025-11-15 21:29:31.248] [info] CMC::computeControls, t = 4.31
+[2025-11-15 21:29:34.085] [info] CMC::computeControls, t = 4.32
+[2025-11-15 21:29:37.517] [info] CMC::computeControls, t = 4.33
+[2025-11-15 21:29:39.361] [info] CMC::computeControls, t = 4.34
+[2025-11-15 21:29:40.738] [info] CMC::computeControls, t = 4.35
+[2025-11-15 21:29:41.919] [info] CMC::computeControls, t = 4.36
+[2025-11-15 21:29:42.888] [info] CMC::computeControls, t = 4.37
+[2025-11-15 21:29:43.730] [info] CMC::computeControls, t = 4.38
+[2025-11-15 21:29:44.442] [info] CMC::computeControls, t = 4.39
+[2025-11-15 21:29:45.194] [info] CMC::computeControls, t = 4.4
+[2025-11-15 21:29:45.970] [info] CMC::computeControls, t = 4.41
+[2025-11-15 21:29:46.729] [info] CMC::computeControls, t = 4.42
+[2025-11-15 21:29:47.520] [info] CMC::computeControls, t = 4.43
+[2025-11-15 21:29:48.337] [info] CMC::computeControls, t = 4.44
+[2025-11-15 21:29:49.173] [info] CMC::computeControls, t = 4.45
+[2025-11-15 21:29:50.220] [info] CMC::computeControls, t = 4.46
+[2025-11-15 21:29:50.924] [info] CMC::computeControls, t = 4.47
+[2025-11-15 21:29:51.453] [info] CMC::computeControls, t = 4.48
+[2025-11-15 21:29:52.011] [info] CMC::computeControls, t = 4.49
+[2025-11-15 21:29:52.613] [info] CMC::computeControls, t = 4.5
+[2025-11-15 21:29:53.153] [info] CMC::computeControls, t = 4.51
+[2025-11-15 21:29:53.754] [info] CMC::computeControls, t = 4.52
+[2025-11-15 21:29:54.310] [info] CMC::computeControls, t = 4.53
+[2025-11-15 21:29:54.942] [info] CMC::computeControls, t = 4.54
+[2025-11-15 21:29:55.555] [info] CMC::computeControls, t = 4.55
+[2025-11-15 21:29:56.092] [info] CMC::computeControls, t = 4.56
+[2025-11-15 21:29:56.629] [info] CMC::computeControls, t = 4.57
+[2025-11-15 21:29:57.234] [info] CMC::computeControls, t = 4.58
+[2025-11-15 21:29:57.830] [info] CMC::computeControls, t = 4.59
+[2025-11-15 21:29:58.455] [info] CMC::computeControls, t = 4.6
+[2025-11-15 21:29:59.055] [info] CMC::computeControls, t = 4.61
+[2025-11-15 21:29:59.785] [info] CMC::computeControls, t = 4.62
+[2025-11-15 21:30:00.468] [info] CMC::computeControls, t = 4.63
+[2025-11-15 21:30:01.285] [info] CMC::computeControls, t = 4.64
+[2025-11-15 21:30:02.148] [info] CMC::computeControls, t = 4.65
+[2025-11-15 21:30:02.971] [info] CMC::computeControls, t = 4.66
+[2025-11-15 21:30:03.645] [info] CMC::computeControls, t = 4.67
+[2025-11-15 21:30:04.253] [info] CMC::computeControls, t = 4.68
+[2025-11-15 21:30:04.864] [info] CMC::computeControls, t = 4.69
+[2025-11-15 21:30:05.420] [info] CMC::computeControls, t = 4.7
+[2025-11-15 21:30:06.023] [info] CMC::computeControls, t = 4.71
+[2025-11-15 21:30:06.666] [info] CMC::computeControls, t = 4.72
+[2025-11-15 21:30:07.274] [info] CMC::computeControls, t = 4.73
+[2025-11-15 21:30:07.889] [info] CMC::computeControls, t = 4.74
+[2025-11-15 21:30:08.441] [info] CMC::computeControls, t = 4.75
+[2025-11-15 21:30:09.107] [info] CMC::computeControls, t = 4.76
+[2025-11-15 21:30:09.727] [info] CMC::computeControls, t = 4.77
+[2025-11-15 21:30:10.315] [info] CMC::computeControls, t = 4.78
+[2025-11-15 21:30:10.908] [info] CMC::computeControls, t = 4.79
+[2025-11-15 21:30:11.512] [info] CMC::computeControls, t = 4.8
+[2025-11-15 21:30:12.031] [info] CMC::computeControls, t = 4.81
+[2025-11-15 21:30:12.597] [info] CMC::computeControls, t = 4.82
+[2025-11-15 21:30:13.243] [info] CMC::computeControls, t = 4.83
+[2025-11-15 21:30:13.889] [info] CMC::computeControls, t = 4.84
+[2025-11-15 21:30:14.653] [info] CMC::computeControls, t = 4.85
+[2025-11-15 21:30:15.528] [info] CMC::computeControls, t = 4.86
+[2025-11-15 21:30:16.415] [info] CMC::computeControls, t = 4.87
+[2025-11-15 21:30:17.262] [info] CMC::computeControls, t = 4.88
+[2025-11-15 21:30:18.037] [info] CMC::computeControls, t = 4.89
+[2025-11-15 21:30:18.819] [info] CMC::computeControls, t = 4.9
+[2025-11-15 21:30:19.552] [info] CMC::computeControls, t = 4.91
+[2025-11-15 21:30:20.138] [info] CMC::computeControls, t = 4.92
+[2025-11-15 21:30:21.193] [info] CMC::computeControls, t = 4.93
+[2025-11-15 21:30:22.567] [info] CMC::computeControls, t = 4.94
+[2025-11-15 21:30:23.887] [info] CMC::computeControls, t = 4.95
+[2025-11-15 21:30:25.301] [info] CMC::computeControls, t = 4.96
+[2025-11-15 21:30:26.467] [info] CMC::computeControls, t = 4.97
+[2025-11-15 21:30:27.959] [info] CMC::computeControls, t = 4.98
+[2025-11-15 21:30:29.567] [info] CMC::computeControls, t = 4.99
+[2025-11-15 21:30:31.082] [info] CMC::computeControls, t = 5.0
+[2025-11-15 21:30:32.683] [info] CMC::computeControls, t = 5.01
+[2025-11-15 21:30:34.579] [info] CMC::computeControls, t = 5.02
+[2025-11-15 21:30:36.517] [info] CMC::computeControls, t = 5.03
+[2025-11-15 21:30:38.835] [info] CMC::computeControls, t = 5.04
+[2025-11-15 21:30:41.366] [info] CMC::computeControls, t = 5.05
+[2025-11-15 21:30:43.164] [info] CMC::computeControls, t = 5.06
+[2025-11-15 21:30:44.570] [info] CMC::computeControls, t = 5.07
+[2025-11-15 21:30:45.995] [info] CMC::computeControls, t = 5.08
+[2025-11-15 21:30:47.629] [info] CMC::computeControls, t = 5.09
+[2025-11-15 21:30:49.274] [info] CMC::computeControls, t = 5.1
+[2025-11-15 21:30:50.548] [info] CMC::computeControls, t = 5.11
+[2025-11-15 21:30:51.428] [info] CMC::computeControls, t = 5.12
+[2025-11-15 21:30:52.146] [info] CMC::computeControls, t = 5.13
+[2025-11-15 21:30:52.586] [info] CMC::computeControls, t = 5.14
+[2025-11-15 21:30:53.031] [info] CMC::computeControls, t = 5.15
+[2025-11-15 21:30:53.519] [info] CMC::computeControls, t = 5.16
+[2025-11-15 21:30:54.127] [info] CMC::computeControls, t = 5.17
+[2025-11-15 21:30:54.723] [info] CMC::computeControls, t = 5.18
+[2025-11-15 21:30:55.265] [info] CMC::computeControls, t = 5.19
+[2025-11-15 21:30:55.806] [info] CMC::computeControls, t = 5.2
+[2025-11-15 21:30:56.308] [info] CMC::computeControls, t = 5.21
+[2025-11-15 21:30:56.923] [info] CMC::computeControls, t = 5.22
+[2025-11-15 21:30:57.518] [info] CMC::computeControls, t = 5.23
+[2025-11-15 21:30:58.085] [info] CMC::computeControls, t = 5.24
+[2025-11-15 21:30:58.727] [info] CMC::computeControls, t = 5.25
+[2025-11-15 21:30:59.311] [info] CMC::computeControls, t = 5.26
+[2025-11-15 21:30:59.937] [info] CMC::computeControls, t = 5.27
+[2025-11-15 21:31:00.567] [info] CMC::computeControls, t = 5.28
+[2025-11-15 21:31:01.118] [info] CMC::computeControls, t = 5.29
+[2025-11-15 21:31:01.682] [info] CMC::computeControls, t = 5.3
+[2025-11-15 21:31:02.230] [info] CMC::computeControls, t = 5.31
+[2025-11-15 21:31:02.846] [info] CMC::computeControls, t = 5.32
+[2025-11-15 21:31:03.402] [info] CMC::computeControls, t = 5.33
+[2025-11-15 21:31:04.017] [info] CMC::computeControls, t = 5.34
+[2025-11-15 21:31:04.581] [info] CMC::computeControls, t = 5.35
+[2025-11-15 21:31:05.157] [info] CMC::computeControls, t = 5.36
+[2025-11-15 21:31:05.723] [info] CMC::computeControls, t = 5.37
+[2025-11-15 21:31:06.275] [info] CMC::computeControls, t = 5.38
+[2025-11-15 21:31:06.883] [info] CMC::computeControls, t = 5.39
+[2025-11-15 21:31:07.503] [info] CMC::computeControls, t = 5.4
+[2025-11-15 21:31:08.145] [info] CMC::computeControls, t = 5.41
+[2025-11-15 21:31:08.765] [info] CMC::computeControls, t = 5.42
+[2025-11-15 21:31:09.364] [info] CMC::computeControls, t = 5.43
+[2025-11-15 21:31:09.956] [info] CMC::computeControls, t = 5.44
+[2025-11-15 21:31:10.527] [info] CMC::computeControls, t = 5.45
+[2025-11-15 21:31:11.076] [info] CMC::computeControls, t = 5.46
+[2025-11-15 21:31:11.692] [info] CMC::computeControls, t = 5.47
+[2025-11-15 21:31:12.250] [info] CMC::computeControls, t = 5.48
+[2025-11-15 21:31:12.838] [info] CMC::computeControls, t = 5.49
+[2025-11-15 21:31:13.452] [info] CMC::computeControls, t = 5.5
+[2025-11-15 21:31:14.026] [info] CMC::computeControls, t = 5.51
+[2025-11-15 21:31:15.152] [info] CMC::computeControls, t = 5.52
+[2025-11-15 21:31:16.068] [info] CMC::computeControls, t = 5.53
+[2025-11-15 21:31:16.692] [info] CMC::computeControls, t = 5.54
+[2025-11-15 21:31:17.192] [info] CMC::computeControls, t = 5.55
+[2025-11-15 21:31:17.704] [info] CMC::computeControls, t = 5.56
+[2025-11-15 21:31:18.227] [info] CMC::computeControls, t = 5.57
+[2025-11-15 21:31:18.913] [info] CMC::computeControls, t = 5.58
+[2025-11-15 21:31:19.484] [info] CMC::computeControls, t = 5.59
+[2025-11-15 21:31:20.049] [info] CMC::computeControls, t = 5.6
+[2025-11-15 21:31:20.681] [info] CMC::computeControls, t = 5.61
+[2025-11-15 21:31:21.282] [info] CMC::computeControls, t = 5.62
+[2025-11-15 21:31:21.891] [info] CMC::computeControls, t = 5.63
+[2025-11-15 21:31:22.458] [info] CMC::computeControls, t = 5.64
+[2025-11-15 21:31:23.040] [info] CMC::computeControls, t = 5.65
+[2025-11-15 21:31:23.590] [info] CMC::computeControls, t = 5.66
+[2025-11-15 21:31:24.167] [info] CMC::computeControls, t = 5.67
+[2025-11-15 21:31:24.774] [info] CMC::computeControls, t = 5.68
+[2025-11-15 21:31:25.365] [info] CMC::computeControls, t = 5.69
+[2025-11-15 21:31:25.937] [info] CMC::computeControls, t = 5.7
+[2025-11-15 21:31:26.489] [info] CMC::computeControls, t = 5.71
+[2025-11-15 21:31:27.057] [info] CMC::computeControls, t = 5.72
+[2025-11-15 21:31:27.621] [info] CMC::computeControls, t = 5.73
+[2025-11-15 21:31:28.196] [info] CMC::computeControls, t = 5.74
+[2025-11-15 21:31:28.692] [info] CMC::computeControls, t = 5.75
+[2025-11-15 21:31:29.190] [info] CMC::computeControls, t = 5.76
+[2025-11-15 21:31:29.724] [info] CMC::computeControls, t = 5.77
+[2025-11-15 21:31:30.257] [info] CMC::computeControls, t = 5.78
+[2025-11-15 21:31:30.812] [info] CMC::computeControls, t = 5.79
+[2025-11-15 21:31:31.330] [info] CMC::computeControls, t = 5.8
+[2025-11-15 21:31:31.933] [info] CMC::computeControls, t = 5.81
+[2025-11-15 21:31:32.499] [info] CMC::computeControls, t = 5.82
+[2025-11-15 21:31:33.069] [info] CMC::computeControls, t = 5.83
+[2025-11-15 21:31:33.584] [info] CMC::computeControls, t = 5.84
+[2025-11-15 21:31:34.154] [info] CMC::computeControls, t = 5.85
+[2025-11-15 21:31:34.690] [info] CMC::computeControls, t = 5.86
+[2025-11-15 21:31:35.252] [info] CMC::computeControls, t = 5.87
+[2025-11-15 21:31:35.790] [info] CMC::computeControls, t = 5.88
+[2025-11-15 21:31:36.327] [info] CMC::computeControls, t = 5.89
+[2025-11-15 21:31:36.908] [info] CMC::computeControls, t = 5.9
+[2025-11-15 21:31:37.471] [info] CMC::computeControls, t = 5.91
+[2025-11-15 21:31:38.053] [info] CMC::computeControls, t = 5.92
+[2025-11-15 21:31:38.626] [info] CMC::computeControls, t = 5.93
+[2025-11-15 21:31:39.193] [info] CMC::computeControls, t = 5.94
+[2025-11-15 21:31:39.730] [info] CMC::computeControls, t = 5.95
+[2025-11-15 21:31:40.286] [info] CMC::computeControls, t = 5.96
+[2025-11-15 21:31:40.827] [info] CMC::computeControls, t = 5.97
+[2025-11-15 21:31:41.438] [info] CMC::computeControls, t = 5.98
+[2025-11-15 21:31:42.047] [info] CMC::computeControls, t = 5.99
+[2025-11-15 21:31:42.629] [info] -------------------------------------------
+[2025-11-15 21:31:42.629] [info] Finished tracking the specified kinematics.
+[2025-11-15 21:31:42.629] [info] -------------------------------------------
+[2025-11-15 21:31:42.629] [info]  -- Start time = Sat Nov 15 21:28:10 2025
+[2025-11-15 21:31:42.629] [info]  -- Finish time = Sat Nov 15 21:31:42 2025
+[2025-11-15 21:31:42.629] [info]  -- Elapsed time = 212.0 seconds.
+[2025-11-15 21:31:42.629] [info] -------------------------------------------
+[2025-11-15 21:31:42.629] [info] 
+[2025-11-15 21:31:42.629] [info] Printing results of investigation Hanif-Scaled to C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Deep Squat/CMC/2_Hanif_Deep_7_5_patched
+[2025-11-15 21:31:43.794] [info] Storage: read data file = C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Deep Squat/IK/3_Hanif_Deep_2_5_patched.mot (nr=371 nc=24)
