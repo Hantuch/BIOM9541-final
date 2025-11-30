@@ -7,3 +7,4 @@ A Within-Subject Analysis"
 2. **Vicon Data** : Raw & Processed Data, general structure squat_depth -> processing_type -> load_weight -> trial
 3. **Documentation** : Video & Images of Experiment
 4. **Results** : Figures, Plots, OpenSim Model Photos
+5. **Analysis** : Result Analysis Scripts (Python)
