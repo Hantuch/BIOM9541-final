@@ -1,0 +1,95 @@
+[2025-11-16 01:40:52.949] [info] AbstractTool Hanif-Scaled loading model C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/RRA/1_Hanif_Shallow_5_0_patched/1_Hanif_Shallow_5_0_patched_model_adjusted.osim
+[2025-11-16 01:40:52.976] [info] Loaded model Hanif-Scaled from file C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/RRA/1_Hanif_Shallow_5_0_patched/1_Hanif_Shallow_5_0_patched_model_adjusted.osim
+[2025-11-16 01:40:53.062] [info] Adding force object set from ../../../../Scripts/Setup_XMLs/Boiler_XMLs/cmc_actuators.xml
+[2025-11-16 01:40:53.238] [warning] ControlSetController::extendFinalizeFromProperties 'C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/CMC/1_Hanif_Shallow_5_0_patched/Hanif-Scaled_controls.xml' loaded and will replace existing ControlSet 'Hanif-Scaled'.
+[2025-11-16 01:40:53.318] [warning] ControlSetController::extendFinalizeFromProperties 'C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/CMC/1_Hanif_Shallow_5_0_patched/Hanif-Scaled_controls.xml' loaded and will replace existing ControlSet 'Hanif-Scaled'.
+[2025-11-16 01:40:53.330] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_med1_r'.
+[2025-11-16 01:40:53.330] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_med2_r'.
+[2025-11-16 01:40:53.330] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_med3_r'.
+[2025-11-16 01:40:53.330] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'bifemlh_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'bifemsh_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'sar_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'add_mag2_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'tfl_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'pect_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'grac_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_max1_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_max2_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_max3_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'iliacus_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'psoas_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'quad_fem_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'gem_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'peri_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'rect_fem_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'vas_int_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'med_gas_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'soleus_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'tib_post_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'tib_ant_r'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_med1_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_med2_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_med3_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'bifemlh_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'bifemsh_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'sar_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'add_mag2_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'tfl_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'pect_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'grac_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_max1_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_max2_l'.
+[2025-11-16 01:40:53.331] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'glut_max3_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'iliacus_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'psoas_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'quad_fem_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'gem_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'peri_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'rect_fem_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'vas_int_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'med_gas_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'soleus_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'tib_post_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'tib_ant_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'ercspn_r'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'ercspn_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'intobl_r'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'intobl_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'extobl_r'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'extobl_l'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'FX'.
+[2025-11-16 01:40:53.332] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'FY'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'FZ'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'MX'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'MY'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'MZ'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'hip_flexion_r_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'hip_adduction_r_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'hip_rotation_r_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'knee_angle_r_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'ankle_angle_r_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'subtalar_angle_r_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'mtp_angle_r_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'hip_flexion_l_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'hip_adduction_l_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'hip_rotation_l_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'knee_angle_l_reserve'.
+[2025-11-16 01:40:53.333] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'ankle_angle_l_reserve'.
+[2025-11-16 01:40:53.334] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'subtalar_angle_l_reserve'.
+[2025-11-16 01:40:53.334] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'mtp_angle_l_reserve'.
+[2025-11-16 01:40:53.334] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'lumbar_extension_reserve'.
+[2025-11-16 01:40:53.334] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'lumbar_bending_reserve'.
+[2025-11-16 01:40:53.334] [cout] [info] ControlSetController::extendConnectToModel Connecting ControlSetController 'controlsetcontroller' to Actuator 'lumbar_rotation_reserve'.
+[2025-11-16 01:40:53.342] [info] Storage: read data file = C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat\ID\GRF\1_Hanif_Shallow_5_0_grf.mot (nr=401 nc=19)
+[2025-11-16 01:40:53.344] [info] ExternalForce::right_ground_force_v Data source being set to Hanif_Shallow_5_0_grf.mot
+[2025-11-16 01:40:53.344] [info] ExternalForce::left_ground_force_v Data source being set to Hanif_Shallow_5_0_grf.mot
+[2025-11-16 01:40:53.346] [info] Loading states from file 'C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/CMC/1_Hanif_Shallow_5_0_patched/Hanif-Scaled_states.sto'.
+[2025-11-16 01:40:53.351] [info] Storage: read data file = C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/CMC/1_Hanif_Shallow_5_0_patched/Hanif-Scaled_states.sto (nr=3708 nc=155)
+[2025-11-16 01:40:53.533] [info] Found 3707 state vectors with time stamps ranging from 0.23 to 2.19.
+[2025-11-16 01:40:53.533] [info] Executing the analyses from 0.23 to 2.19...
+[2025-11-16 01:40:53.551] [info] Loading actuator forces from file C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/CMC/1_Hanif_Shallow_5_0_patched/Hanif-Scaled_Actuation_force.sto.
+[2025-11-16 01:40:53.558] [info] Storage: read data file = C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/CMC/1_Hanif_Shallow_5_0_patched/Hanif-Scaled_Actuation_force.sto (nr=3708 nc=78)
+[2025-11-16 01:40:53.654] [info] Found 77 actuator forces with time stamps ranging from 0.23to 2.19.
+[2025-11-16 01:40:53.654] [warning] Ignoring fiber lengths and activations from the states since forces_file is also set. Actuator forces will be constructed from C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/CMC/1_Hanif_Shallow_5_0_patched/Hanif-Scaled_Actuation_force.sto.
+[2025-11-16 01:40:57.005] [info] Printing results of investigation Hanif-Scaled to C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/Analyze/1_Hanif_Shallow_5_0_patched
+[2025-11-16 01:40:57.961] [info] Storage: read data file = C:/Users/Hanif/OneDrive - UNSW/T3 - 2025/Biomechanics of Human Body/Final Project/Vicon Data/Shallow Squat/IK/1_Hanif_Shallow_7_5_patched.mot (nr=461 nc=24)
